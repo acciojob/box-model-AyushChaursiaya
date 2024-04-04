@@ -4,7 +4,7 @@
 	height: 120px;
 	padding: 20px;
 	display: flex;
-	gap: 10px;
+	/* gap: 10px; */
 	border-radius: 20px;
 	background-color: #d4d2d3;
 	border: 2px solid #000001;
